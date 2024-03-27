@@ -1,4 +1,5 @@
 ## FXInternational WebFX Jobs Board Icon Fix
+![Job Board Original](Job_Board_Original.gif)
 
 # Project Description
 The FXInternational WebFX Jobs Board is a platform designed for browsing job listings. Currently, there is an issue where opening multiple job listings doesn't update the UI correctly, leading to confusion about the status of previously opened jobs.
@@ -13,3 +14,7 @@ The toggle icon (+/-) for expanding/collapsing job descriptions may not update c
 # Objective
 
 The objective of this project is to enhance the functionality of the FXInternational WebFX Jobs Board by ensuring that the UI accurately reflects the status of opened job listings. This includes updating icons and indicators appropriately when navigating between job listings.
+
+# Result
+
+![Job Board Fixed](Job_Board_Fixed.gif)
